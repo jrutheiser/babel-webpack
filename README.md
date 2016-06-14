@@ -15,3 +15,7 @@ $ npm install
 - `npm start` Start development server
 - `npm run build` Build production application
 
+## License
+
+[MIT](https://github.com/jrutheiser/es6-webpack/blob/master/LICENSE)
+
