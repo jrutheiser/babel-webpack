@@ -1,12 +1,12 @@
-# ES6 Webpack
+# Babel Webpack
 
-A simple config for webpack that utilizes babel to compile ES6.
+A simple config for webpack that utilizes babel to compile javascript.
 
 ## Getting Started
 
 ```bash
-$ git clone https://github.com/jrutheiser/es6-webpack.git
-$ cd es6-webpack
+$ git clone https://github.com/jrutheiser/babel-webpack.git
+$ cd babel-webpack
 $ npm install
 ```
 
@@ -17,5 +17,5 @@ $ npm install
 
 ## License
 
-[MIT](https://github.com/jrutheiser/es6-webpack/blob/master/LICENSE)
+[MIT](https://github.com/jrutheiser/babel-webpack/blob/master/LICENSE)
 

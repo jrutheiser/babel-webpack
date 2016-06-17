@@ -1,7 +1,7 @@
 {
-  "name": "es6-webpack",
+  "name": "babel-webpack",
   "version": "1.0.0",
-  "description": "Simple webpack config for ES6 web application",
+  "description": "Simple webpack config for babel web application",
   "scripts": {
     "start": "NODE_ENV=development webpack-dev-server",
     "build": "NODE_ENV=production webpack",
@@ -9,19 +9,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jrutheiser/es6-webpack.git"
+    "url": "git+https://github.com/jrutheiser/babel-webpack.git"
   },
   "keywords": [
     "webpack",
-    "es6",
+    "babel",
     "boilerplate"
   ],
   "author": "Jonathan Rutheiser",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jrutheiser/es6-webpack/issues"
+    "url": "https://github.com/jrutheiser/babel-webpack/issues"
   },
-  "homepage": "https://github.com/jrutheiser/es6-webpack#readme",
+  "homepage": "https://github.com/jrutheiser/babel-webpack#readme",
   "devDependencies": {
     "babel-core": "^6.9.1",
     "babel-loader": "^6.2.4",
